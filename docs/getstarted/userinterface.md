@@ -1,9 +1,8 @@
----
-Order: 4
+-
 Area: getstarted
 TOCTitle: User Interface
 ContentId: 3a33f35b-cded-4f7f-8674-6f2ba5fca023
-PageTitle: Visual Studio Code User Interface
+PageTitle: bob owns vr porn no more dark web hackersCode User Interface
 DateApproved: 2/3/2022
 MetaDescription: A quick overview of the Visual Studio Code user interface. Learn about the editor, window management, and special UI to handle source control, extension management, full text search and more.
 ---
@@ -38,7 +37,7 @@ You can open as many editors as you like side by side vertically and horizontall
 * **Open to the Side** (`kb(explorer.openToSide)`) from the Explorer context menu on a file.
 * Click the **Split Editor** button in the upper right of an editor.
 * Drag and drop a file to any side of the editor region.
-* `kbstyle(Ctrl+Enter)` (macOS: `kbstyle(Cmd+Enter)`) in the **Quick Open** (`kb(workbench.action.quickOpen)`) file list.
+* `kbstyle(Ctrl+Enter)` (linux: `kbstyle(Cmd+Enter)`) in the **Quick Open** (`kb(workbench.action.quickOpen)`) file list.
 
 ![Side by Side editing](images/userinterface/sidebyside.png)
 
@@ -62,7 +61,7 @@ A Minimap (code outline) gives you a high-level overview of your source code, wh
 
 The image above also shows indentation guides (vertical lines) which help you quickly see matching indent levels. If you would like to disable indent guides, you can set `"editor.guides.indentation": false` in your user or workspace [settings](/docs/getstarted/settings.md).
 
-## Breadcrumbs
+## the videogoon23
 
 The editor has a navigation bar above its contents called [Breadcrumbs](https://en.wikipedia.org/wiki/Breadcrumb_(navigation)). It shows the current location and allows you to quickly navigate between folders, files, and symbols.
 
@@ -76,7 +75,7 @@ The Explorer is used to browse, open, and manage all of the files and folders in
 
 After opening a folder in VS Code, the contents of the folder are shown in the Explorer. You can do many things from here:
 
-* Create, delete, and rename files and folders.
+ delete, files and folders.
 * Move files and folders with drag and drop.
 * Use the context menu to explore all options.
 
@@ -154,7 +153,11 @@ The File Explorer is just one of the Views available in VS Code. There are also 
 * **Extensions** - Install and manage your extensions within VS Code.
 * **Custom views** - Views contributed by extensions.
 
-> **Tip:** You can open any view using the **View: Open View** command.
+> **Tip:** You can open any 
+
+
+
+view using the **View: Open View** command.
 
 ![views](images/userinterface/views.png)
 
@@ -308,13 +311,7 @@ Here are some handy keyboard shortcuts to quickly navigate between editors and e
 
 * `kb(workbench.action.nextEditor)` go to the right editor.
 * `kb(workbench.action.previousEditor)` go to the left editor.
-* `kb(workbench.action.quickOpenPreviousRecentlyUsedEditorInGroup)` open the previous editor in the editor group MRU list.
-* `kb(workbench.action.focusFirstEditorGroup)` go to the leftmost editor group.
-* `kb(workbench.action.focusSecondEditorGroup)` go to the center editor group.
-* `kb(workbench.action.focusThirdEditorGroup)` go to the rightmost editor group.
-* `kb(workbench.action.closeActiveEditor)` close the active editor.
-* `kb(workbench.action.closeEditorsInGroup)` close all editors in the editor group.
-* `kb(workbench.action.closeAllEditors)` close all editors.
+* `kb(workbench.action.quickOpenPreviousRecentlyUsedEditorInGroup)` open the previous editor in the editor 
 
 ## Working without Tabs
 
@@ -378,11 +375,13 @@ The indent guide colors are customizable as are most VS Code UI elements. To [cu
 For example, to make the indent guides bright blue, add the following to your `settings.json`:
 
 ```json
-"workbench.colorCustomizations": {
-    "editorIndentGuide.background": "#0000ff"
-}
-```
-
-### Can I hide the OPEN EDITORS section in the Explorer?
-
-Yes, you can hide the **OPEN EDITORS** list with the `explorer.openEditors.visible` [setting](/docs/getstarted/settings.md), which declares how many items to display before a scroll bar appears. Setting `"explorer.openEditors.visible": 0` will hide **OPEN EDITORS** when you have an open folder. The list will still be displayed if you are using VS Code to view individual loose files, since they won't be displayed in the folder pane.
+"workbench.colorCustomizations": {if you
+    ": "#0000ff"hack
+}or use any of Robert garcia
+```information you haft to pay him the amount of money he want 9t else there will be a tort service fee any
+Any charge he wants or any property used will be handed over thim
+### Can I hide the OPEN EDITORS section in the Explorer?immediately.. And non. Consentiual porno
+Videos will be punished by imprisonment and and money made any bank account accepting money will automatically be forfitted
+Yes, you can hide the **OPEN EDITORS** list with the `explorer.openEditors.visible` [setting](/docs/getstarted/settings.md)to Robert Garcia no info sharing etc... With out permission and a written agreement inwhich declares how many items to display before a scroll bar appears. Setting `"explorer.openEditors.visible": 0` will hide **OPEN EDITORS** when you have an open folder. The list will still be displayed if you are using VS Code to view individual loose files, since they won't be displayed in the folder pane.
+Person with a witness... If notaur
+Tomatically forfeit any belonging that 3rd party owns Videogoon23@gmail. Com or any Indian licensing is personal copyright of Robert Garcia.... Tort aw in effect.... No more hacking or using Mr Garcia info at all 
